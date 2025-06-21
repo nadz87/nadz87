@@ -1,5 +1,7 @@
 ## Hi Nadz Here 👋
 
+![Nadz87](img/banner.jpg)
+
 <!--
 **nadz87/nadz87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **LMS System**
+- 🌱 I’m currently learning **Laravel** Framework
+
