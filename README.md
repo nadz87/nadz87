@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2011<br>📚 I'm currently learning Laravel Framework<br>🎯 Goals: Bestman for God</p>
+<p align="left">✨ Creating bugs since 2011<br>📚 I'm currently learning Laravel Framework<br>🎯 Goals: Be Humble and Be The Best for God</p>
 
 ###
 
